@@ -1,0 +1,5 @@
+a = str(input(""))
+b = set(a.split(" "))
+lis = list(b)
+lis.sort()
+print(lis)
